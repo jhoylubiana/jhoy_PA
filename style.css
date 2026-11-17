@@ -23,6 +23,7 @@ body {
 }
 
 
+
 body::before,
 body::after {
     /* Cria os efeitos de luz no fundo */
