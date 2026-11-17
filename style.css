@@ -212,3 +212,10 @@ p {
     z-index: 1;
     text-align: center;
 }
+
+.menu-estudos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+}
