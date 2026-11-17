@@ -207,19 +207,19 @@ p {
 }
 
 }
-.menu-estudos, .rodape-estudos {
+.menu-estudo, .rodape-estudo {
     position: relative;
     z-index: 1;
     text-align: center;
 }
 
-.menu-estudos {
+.menu-estudo {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: 12px;
 }
-.menu-estudo a, .links-estudo a, .rodape-estudos a {
+.menu-estudo a, .links-estudo a, .rodape-estudo a {
     color: #93c5fd;
     text-underline-offset: 4px;
 }
@@ -230,3 +230,5 @@ p {
     border-radius: 12px;
     background: #111827;
 }
+
+
