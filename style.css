@@ -171,6 +171,7 @@ p {
     transition: 0.3s ease;
 }
 
+
 .info-card:hover {
     transform: translateY(-5px);
     border-color: red;
