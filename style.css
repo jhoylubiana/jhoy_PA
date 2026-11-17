@@ -70,6 +70,7 @@ body::after {
     flex-shrink: 0;
 }
 
+
 .card:hover {
     /* Efeito ao passar o mouse no cartão */
     transform: translateY(-5px);
