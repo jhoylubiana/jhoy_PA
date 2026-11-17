@@ -207,3 +207,8 @@ p {
 }
 
 }
+.menu-estudos, .rodape-estudos {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+}
